@@ -18,7 +18,7 @@
 
 ##### Features that comming in next version [v.0.1]
 
- * MacOS Mohave dynamic chnage background through day
+ * MacOS Mohave dynamic change background through day
 
 ## About
 
