@@ -22,7 +22,7 @@
 
 ## About
 
-Night Time is tool built in Python 2 .It is simple utality tool for chaning bacgkround on Deepin OS automaticly based on user timezone. This application doesnt record any data to externel or internal databases. Night Time checks algoritham evry hour.Keep it in your process thread. 
+Night Time is tool built in Python 2 .It is simple utality tool for chaning background on Deepin OS automaticly based on user timezone. This application doesn't record any data to externel or internal databases. Night Time checks algoritham when time is to change.Keep it in your process thread. 
 
 #### Lunching at startup of system 
 
